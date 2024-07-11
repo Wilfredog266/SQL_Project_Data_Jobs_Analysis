@@ -11,10 +11,7 @@ WITH top_paying_jobs AS (
     SELECT
         job_id,
         job_title,
-        job_location,
-        job_schedule_type,
         salary_year_avg,
-        job_posted_date,
         name AS company_name
     FROM
         job_postings_fact
@@ -26,7 +23,7 @@ WITH top_paying_jobs AS (
     ORDER BY
         salary_year_avg DESC
     LIMIT
-        20
+        10
 )
 
 SELECT *
