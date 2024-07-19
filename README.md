@@ -64,7 +64,7 @@ Several unique roles appear only once, such as "ERM Data Analyst," "Principal Da
 Mantys offers the highest average salary at $650,000.00.
 Other companies with notable average salaries include Meta ($336,500.00) and AT&T ($255,829.50).
 
-![Top Paying Roles](sql_project\assets\1_top_paying_roles.png)
+![Top Paying Roles](sql_project/assets/2_top_paying_roles_skills.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
