@@ -17,7 +17,7 @@ Data hails from his [SQL Course](https://lukebarousse.com/sql). It's packed with
 5. What are the most optimal skills to learn?
 
 # Tools I Used
-For my deep dive into the data analyst job market, I took utilized the power of several important tools:
+For my deep dive into the data analyst job market, I utilized the power of several important tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
