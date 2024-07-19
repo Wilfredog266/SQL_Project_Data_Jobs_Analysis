@@ -110,7 +110,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023, base
 
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](sql_project\assets\2_top_paying_roles_skills.png)
+![Top Paying Skills](sql_project/assets/2_top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
