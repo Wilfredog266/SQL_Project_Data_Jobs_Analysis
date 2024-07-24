@@ -40,5 +40,7 @@ FROM
     ) AS quarter1_job_postings 
 WHERE
     quarter1_job_postings.salary_year_avg > 80000
+ORDER BY
+    quarter1_job_postings.salary_year_avg DESC;
 
 
